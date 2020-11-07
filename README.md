@@ -16,3 +16,12 @@ Change the ffmpeg address and your desktop address in BAT and py file
 4. Copy subs to bin folder of ffmpeg and rename them to s (select all of them press F2 and enter s)
 
 5. open File_list Bat file for making a list of videos and save in list.txt
+
+6. run ffmpeg command maker.py
+
+7. Command.BAT  file will be created on your desktop open it with notepad and add this line to the first line of this and save this:           
+cd ffmpeg_address/bin
+
+8. run Command.BAT
+
+9. after finishing process you can find your hard subbed videos with orginal names on folder 1 on your desktop
